@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/Suban05/rails-project-65/workflows/CI/badge.svg)](https://github.com/Suban05/rails-project-65/actions)
+[![Build Status](https://github.com/Suban05/otiva/workflows/CI/badge.svg)](https://github.com/Suban05/otiva/actions)
 
 # Otiva
 
